@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Jean-Rayan Samba-Buesso
 
-<!--
-**Jr78190/Jr78190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Bachelor à l’ETNA, école d’ingénierie informatique.  
+💼 À la recherche d’une alternance pour une durée minimale de 12 mois, pouvant
+ s’étendre jusqu’à 24 mois, selon les besoins de l’entreprise.  
+💻 Passionné par le développement front-end avec React, HTML, CSS et JavaScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Compétences
+- **Langages** : HTML/CSS, JavaScript, Python, TypeScript, Sass
+- **Frameworks** : React/Redux, Express.js, Node.js, Angular, Django
+- **Outils** : Git, GitHub, VS Code, Figma, Trello, Canva
+- **Méthodologies** : Responsive Design, Accessibilité, SEO, Green Code, Optimisation Lighthouse
+
+---
+
+### 📫 Me contacter
+- [LinkedIn](https://www.linkedin.com/in/jean-rayan-samba-buesso-547b88197/)
+- [Portfolio]( https://jr78190.github.io/Portfolio/)
+- [Email](jeanrayan.sb@gmail.com)
+- [Malt](https://www.malt.fr/profile/jeanrayansambabuesso)
