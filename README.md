@@ -1,9 +1,9 @@
 # 👋 Jean-Rayan Samba-Buesso
 
-🎓 Étudiant en Bachelor à l’ETNA, école d’ingénierie informatique.  
-💼 À la recherche d’une alternance pour une durée minimale de 12 mois, pouvant
- s’étendre jusqu’à 24 mois, selon les besoins de l’entreprise.  
-💻 Passionné par le développement front-end avec React, HTML, CSS et JavaScript.
+Développeur web en reconversion, je conçois des interfaces dynamiques en HTML, CSS, JavaScript et React. 
+Mon parcours en école d’ingénieur et ma formation orientée projet m’ont permis de développer une bonne autonomie,
+ainsi qu’une polyvalence allant de l’intégration responsive à la logique applicative. Je recherche un CDI
+pour contribuer à des projets concrets et performant;
 
 ---
 
