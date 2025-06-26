@@ -1,17 +1,16 @@
 # 👋 Jean-Rayan Samba-Buesso
 
-Développeur web en reconversion, je conçois des interfaces dynamiques en HTML, CSS, JavaScript et React. 
-Mon parcours en école d’ingénieur et ma formation orientée projet m’ont permis de développer une bonne autonomie,
-ainsi qu’une polyvalence allant de l’intégration responsive à la logique applicative. Je recherche un CDI
-pour contribuer à des projets concrets et performant;
+Je suis à la recherche d’une alternance en Bac +3 pour renforcer mes compétences en développement web et en SEO,
+tout en contribuant activement aux projets d'équipe. Disponible pour une durée pouvant aller jusqu’à 24 mois, 
+selon les besoins de l’entreprise.
 
 ---
 
 ### 🚀 Compétences
 - **Langages** : HTML/CSS, JavaScript, Python, TypeScript, Sass
-- **Frameworks** : React/Redux, Express.js, Node.js, Angular, Django
-- **Outils** : Git, GitHub, VS Code, Figma, Trello, Canva
-- **Méthodologies** : Responsive Design, Accessibilité, SEO, Green Code, Optimisation Lighthouse
+- **Frameworks** : React/Redux, Express.js, Node.js, Angular, Django, Tailwind, Axios
+- **Outils** : Git, GitHub, VS Code, Figma, Trello, Canva, Lightouse, Waze
+- **Méthodologies** : Responsive Design, Accessibilité, SEO, RGAA, Green Code, Optimisation Lighthouse
 
 ---
 
